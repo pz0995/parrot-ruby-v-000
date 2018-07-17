@@ -5,7 +5,7 @@ def parrot(parrot, phrase)
   phrase = "Squawk!"
   parrot = "Pretty bird!"
   puts "Squawk!"
-  "#{parro}"
+  "#{phrase}"
   "#{pretty}"
   return "Squawk!"
   puts
