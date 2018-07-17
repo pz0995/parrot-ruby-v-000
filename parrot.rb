@@ -6,6 +6,6 @@ def parrot(squawk, pretty)
   pretty = "Pretty bird!"
   "#{squawk}"
   "#{pretty}"
-  return   "squawk" 
+  return "squawk"
   puts
 end
